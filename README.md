@@ -14,7 +14,7 @@ CalculatorPOO is a simple console-based calculator application built with Java, 
 1. Clone the repository:
 ```bash
 Copy code
-git clone https://github.com/your-username/calculatorPOO.git
+git clone https://github.com/ThallysCezar/calculatorPoo
 ```
 2. Open the project in your preferred Java development environment.
 
